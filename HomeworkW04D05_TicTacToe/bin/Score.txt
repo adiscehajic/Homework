@@ -1,0 +1,9 @@
+Scores: 
+
+Games played: 2
+
+Player X has 2 wins
+
+Player O has 0 wins
+
+0 games ended draw
